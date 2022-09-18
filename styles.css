@@ -1,0 +1,18 @@
+h1 {color:#5EBEC4 }
+h2 {color:#5EBEC4}
+p {color:#5EBEC4}
+h3 {color:#5EBEC4}
+body{background-color: #FDF5DF}
+li {color: #5EBEC4}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FDF5DF;
+    color: #5EBEC4;
+    text-align: center;
+  }
